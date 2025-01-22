@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "title": "E-commerce Platform",
+      "description": "A fully responsive online store with integrated payment systems.",
+      "image": "/placeholder.svg?height=200&width=300",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "title": "Portfolio Website",
+      "description": "A sleek, modern portfolio for a digital artist showcasing their work.",
+      "image": "/placeholder.svg?height=200&width=300",
+      "link": "#"
+    },
+    {
+      "id": 3,
+      "title": "Booking System",
+      "description": "An efficient booking and reservation system for a chain of restaurants.",
+      "image": "/placeholder.svg?height=200&width=300",
+      "link": "#"
+    },
+    {
+      "id": 4,
+      "title": "Social Media Dashboard",
+      "description": "A comprehensive dashboard for managing multiple social media accounts.",
+      "image": "/placeholder.svg?height=200&width=300",
+      "link": "#"
+    }
+  ]
+  
