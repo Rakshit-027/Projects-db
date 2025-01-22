@@ -9,9 +9,9 @@
     {
       "id": 2,
       "title": "Portfolio Website",
-      "description": "A sleek, modern portfolio for a digital artist showcasing their work.",
-      "image": "/placeholder.svg?height=200&width=300",
-      "link": "#"
+      "description": "Full-Stack Developers Portfolio.",
+      "image": "https://imgbox.com/7m16vfeP",
+      "link": "https://rakshitw.netlify.app/"
     },
     {
       "id": 3,
