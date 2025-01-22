@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "title": "E-commerce Platform",
+      "title": "MeCart",
       "description": "A fully responsive online store with integrated payment systems.",
       "image": "https://eu-central.storage.cloudconvert.com/tasks/03867270-15fe-4840-b42b-072e2b7796f5/Screenshot%202025-01-22%20201646.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20250122%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20250122T145742Z&X-Amz-Expires=86400&X-Amz-Signature=772704554c1e198a254d3f40f4623c9c2fc21483f69a8e766bcc6fb85a416e92&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B%20filename%3D%22Screenshot%202025-01-22%20201646.png%22&response-content-type=image%2Fpng&x-id=GetObject",
       "link": "https://ecom.stackaura.in/"
