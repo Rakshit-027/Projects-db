@@ -19,6 +19,14 @@
       "description": "A comprehensive dashboard for managing multiple social media accounts.",
       "image": "https://images2.imgbox.com/0d/0c/Q2NmidQh_o.png",
       "link": "https://smd.stackaura.in/"
+    },
+    {
+      "id": 4,
+      "title": "Movies-database And Search",
+      "description": "The Movies Database and Search Web App is a platform that allows users to search and explore movies easily.",
+      "image": "https://images2.imgbox.com/ff/26/KQVKXKlg_o.png",
+      "link": "https://movies.stackaura.in/"
+  
     }
     
   ]
