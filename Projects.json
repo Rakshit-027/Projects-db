@@ -8,26 +8,36 @@
     },
     {
       "id": 2,
+      "title": "Fundify-innovation",
+      "description": "A modern crowdfunding web app built with React.js, empowering startup founders to showcase their ideas, raise funds securely, and connect with a supportive community. The platform features real-time funding progress, user-friendly dashboards, and social sharing to maximize visibility..",
+      "image": "https://images2.imgbox.com/52/66/cEELZ7L3_o.png",
+      "link": "https://fundify-innovate.netlify.app/"
+  
+    },  
+    
+    
+    {
+      "id": 3,
       "title": "Portfolio Website",
       "description": "Full-Stack Developers Portfolio.",
       "image": "https://images2.imgbox.com/40/bd/7m16vfeP_o.png",
       "link": "https://rakshit.is.dev.stackaura.in/"
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "Social Media Dashboard",
       "description": "A comprehensive dashboard for managing multiple social media accounts.",
       "image": "https://images2.imgbox.com/0d/0c/Q2NmidQh_o.png",
       "link": "https://smd.stackaura.in/"
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "Movies-database And Search",
       "description": "The Movies Database and Search Web App is a platform that allows users to search and explore movies easily.",
       "image": "https://images2.imgbox.com/ff/26/KQVKXKlg_o.png",
       "link": "https://movies.stackaura.in/"
   
-    }
+    }  
     
   ]
   
