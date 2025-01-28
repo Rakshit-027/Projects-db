@@ -2,7 +2,7 @@
     {
       "id": 1,
       "title": "MeCart",
-      "description": "A fully responsive online store with integrated payment systems.",
+      "description": "A fully responsive online store designed for seamless shopping across devices, featuring integrated payment systems for secure and hassle-free transactions. It offers a sleek, user-friendly interface with customizable product listings and real-time order tracking..",
       "image": "https://images2.imgbox.com/58/fe/djMjvlbl_o.png",
       "link": "https://ecom.stackaura.in/"
     },
@@ -19,7 +19,7 @@
     {
       "id": 3,
       "title": "Portfolio Website",
-      "description": "Full-Stack Developers Portfolio.",
+      "description": "A sleek and responsive portfolio showcasing the skills and projects of a Full-Stack Developer. It features interactive sections for expertise, live project demos, GitHub integrations, and contact details, designed to leave a lasting impression..",
       "image": "https://images2.imgbox.com/40/bd/7m16vfeP_o.png",
       "link": "https://rakshit.is.dev.stackaura.in/"
     },
